@@ -21,10 +21,10 @@ string bitwise_add(string num1, string num2) {
 int main() {
 	string num1, num2;
 
-	cout << "Enter the first number: ";
+	cout << "Enter the first number 1: ";
 	cin >> num1;
 
-	cout << "Enter the second number: ";
+	cout << "Enter the second number 2: ";
 	cin >> num2;
 
 	string result_multiply = bitwise_multiply(num1, num2);
